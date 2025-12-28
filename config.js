@@ -15,7 +15,7 @@ const profileConfig = {
 
     // Réseaux sociaux
     socialLinks: {
-        facebook: "https://www.https://www.facebook.com/abdelali.abdelli.3/",
+        facebook: "https://www.facebook.com/abdelali.abdelli.3/",
         instagram: "https://www.instagram.com/riyadmahrez26.7?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         tiktok: "https://www.tiktok.com/@chebkhaled?is_from_webapp=1&sender_device=pc",
         whatsapp: "+213540732616",
@@ -83,5 +83,6 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
     window.profileConfig = profileConfig;
 }
+
 
 
