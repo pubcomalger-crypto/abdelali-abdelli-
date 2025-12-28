@@ -6,7 +6,7 @@ const profileConfig = {
 
     name: "abdelali ",
     bio: "importateur",
-    profileImage: "https://www.facebook.com/photo/?fbid=803516413405334&set=a.121263411630641",
+    profileImage: "https://i.ibb.co/jZT0ZvX7/81491671-803516420072000-5811692158578589696-n.jpg",
     
 
 
@@ -83,4 +83,5 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
     window.profileConfig = profileConfig;
 }
+
 
